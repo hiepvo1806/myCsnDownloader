@@ -1,0 +1,13 @@
+c:\users\vhhiep\documents\visual studio 2017\Projects\CSNAlbum\CSNAlbum\bin\Debug\CSNAlbum.exe.config
+c:\users\vhhiep\documents\visual studio 2017\Projects\CSNAlbum\CSNAlbum\bin\Debug\CSNAlbum.exe
+c:\users\vhhiep\documents\visual studio 2017\Projects\CSNAlbum\CSNAlbum\bin\Debug\CSNAlbum.pdb
+c:\users\vhhiep\documents\visual studio 2017\Projects\CSNAlbum\CSNAlbum\bin\Debug\HtmlAgilityPack.dll
+c:\users\vhhiep\documents\visual studio 2017\Projects\CSNAlbum\CSNAlbum\bin\Debug\HtmlAgilityPack.pdb
+c:\users\vhhiep\documents\visual studio 2017\Projects\CSNAlbum\CSNAlbum\bin\Debug\HtmlAgilityPack.xml
+c:\users\vhhiep\documents\visual studio 2017\Projects\CSNAlbum\CSNAlbum\obj\Debug\CSNAlbum.csprojResolveAssemblyReference.cache
+c:\users\vhhiep\documents\visual studio 2017\Projects\CSNAlbum\CSNAlbum\obj\Debug\CSNAlbum.Form1.resources
+c:\users\vhhiep\documents\visual studio 2017\Projects\CSNAlbum\CSNAlbum\obj\Debug\CSNAlbum.Properties.Resources.resources
+c:\users\vhhiep\documents\visual studio 2017\Projects\CSNAlbum\CSNAlbum\obj\Debug\CSNAlbum.csproj.GenerateResource.Cache
+c:\users\vhhiep\documents\visual studio 2017\Projects\CSNAlbum\CSNAlbum\obj\Debug\CSNAlbum.csproj.CoreCompileInputs.cache
+c:\users\vhhiep\documents\visual studio 2017\Projects\CSNAlbum\CSNAlbum\obj\Debug\CSNAlbum.exe
+c:\users\vhhiep\documents\visual studio 2017\Projects\CSNAlbum\CSNAlbum\obj\Debug\CSNAlbum.pdb
